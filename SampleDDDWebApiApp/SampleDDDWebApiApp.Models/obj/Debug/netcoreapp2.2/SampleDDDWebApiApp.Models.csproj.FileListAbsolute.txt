@@ -1,0 +1,9 @@
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.deps.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.pdb
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.AssemblyInfoInputs.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.AssemblyInfo.cs
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.pdb
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.Models\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.csprojAssemblyReference.cache

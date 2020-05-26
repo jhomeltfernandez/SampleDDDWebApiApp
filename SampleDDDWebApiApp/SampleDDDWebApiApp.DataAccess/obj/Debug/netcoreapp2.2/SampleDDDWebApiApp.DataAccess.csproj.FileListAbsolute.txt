@@ -1,0 +1,14 @@
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.deps.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.runtimeconfig.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.runtimeconfig.dev.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.pdb
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\bin\Debug\netcoreapp2.2\SampleDDDWebApiApp.Models.pdb
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.AssemblyInfo.cs
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.csproj.CopyComplete
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\SampleDDDWebApiApp\SampleDDDWebApiApp.DataAccess\obj\Debug\netcoreapp2.2\SampleDDDWebApiApp.DataAccess.pdb
